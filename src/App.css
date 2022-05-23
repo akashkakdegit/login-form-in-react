@@ -1,6 +1,12 @@
 *{
   margin: 0;
 }
+body {
+  background: url(https://cdn.pixabay.com/photo/2019/11/19/06/02/seascape-4636549_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+}
 .navbar-light {
   color: azure;
   position: absolute;
